@@ -48,7 +48,7 @@ Matrix's core workflow involves:
 4. Simplifying and integrating models into the AR environment for real-time user interaction.
 5. Providing voice feedback and visual menus for seamless user control.
 
-![System Architecture](docs/system_architecture.png)
+![Matrix Framework](Matrix_Framework.png)
 
 ---
 
