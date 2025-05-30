@@ -94,6 +94,15 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 
 ---
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+*Contact:* Majid Behravan (behravan@vt.edu)
+
+---
 ## Citations
 
 If you use or reference this project, please cite the following publications:
@@ -147,6 +156,6 @@ If you use or reference this project, please cite the following publications:
   pages="13--32",
   isbn="978-3-031-93700-2"
 }
----
+
 
 
