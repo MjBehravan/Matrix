@@ -55,6 +55,7 @@ Matrix's core workflow involves:
 ## Technical Highlights
 
 - Uses **LLaVA** Vision-Language Model for multi-modal understanding.
+- - Uses **Llama** Large-Language Model for multi-modal understanding.
 - Implements **Shap-E** for rapid text-to-3D model generation.
 - Employs **Mask R-CNN** for robust object detection and instance segmentation.
 - Integrates **SeamlessM4T** for multilingual speech recognition and translation.
