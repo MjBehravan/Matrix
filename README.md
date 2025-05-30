@@ -149,11 +149,4 @@ If you use or reference this project, please cite the following publications:
 }
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-*Contact:* Majid Behravan (behravan@vt.edu)
 
