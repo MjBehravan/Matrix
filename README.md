@@ -109,7 +109,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use or reference this project, please cite the following publications:
 
 ```bibtex
-@INPROCEEDINGS{behravan2025voice,
+@InProceedings{behravan2025voice,
   author={Behravan, Majid and Gračanin, Denis},
   booktitle={2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)}, 
   title={From Voices to Worlds: Developing an AI-Powered Framework for 3D Object Generation in Augmented Reality}, 
@@ -117,7 +117,7 @@ If you use or reference this project, please cite the following publications:
   pages={150-155}
 }
 
-@inproceedings{Behravan-2024-b,
+@InProceedings{Behravan-2024-b,
   address = {New York},
   author = {Majid Behravan and Denis Gračanin},
   booktitle = {Proceedings of the 30th ACM Symposium on Virtual Reality Software and Technology (VRST '24)},
@@ -129,7 +129,7 @@ If you use or reference this project, please cite the following publications:
   year = {2024}
 }
 
-@inproceedings{behravan2024generative,
+@InProceedings{behravan2024generative,
   title={Generative Multi-Modal Artificial Intelligence for Dynamic Real-Time Context-Aware Content Creation in Augmented Reality},
   author={Behravan, Majid and Gracanin, Denis},
   booktitle={Proceedings of the 30th ACM Symposium on Virtual Reality Software and Technology},
@@ -137,7 +137,7 @@ If you use or reference this project, please cite the following publications:
   year={2024}
 }
 
-@INPROCEEDINGS{Behravan-2024-b2,
+@InProceedings{Behravan-2024-b2,
   author={Behravan, Majid and Matković, Krešimir and Gračanin, Denis},
   booktitle={2025 IEEE International Conference on Artificial Intelligence and eXtended and Virtual Reality (AIxVR)}, 
   title={Generative AI for Context-Aware 3D Object Creation Using Vision-Language Models in Augmented Reality}, 
