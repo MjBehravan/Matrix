@@ -94,14 +94,59 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 
 ---
 
-## References
+## Citations
 
-This project is based on the following key research papers:
+If you use or reference this project, please cite the following publications:
 
-- Behravan et al., *Generative AI for Context-Aware 3D Object Creation Using Vision-Language Models in Augmented Reality*, 2025.  
-- Behravan & Gracanin, *From Voices to Worlds: Developing an AI-Powered Framework for 3D Object Generation in AR*, IEEE VR Workshop 2025.  
-- Behravan et al., *Transcending Dimensions using Generative AI: Real-Time 3D Model Generation in Augmented Reality*, HCII 2025.
+```bibtex
+@INPROCEEDINGS{behravan2025voice,
+  author={Behravan, Majid and Gračanin, Denis},
+  booktitle={2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)}, 
+  title={From Voices to Worlds: Developing an AI-Powered Framework for 3D Object Generation in Augmented Reality}, 
+  year={2025},
+  pages={150-155}
+}
 
+@inproceedings{Behravan-2024-b,
+  address = {New York},
+  author = {Majid Behravan and Denis Gračanin},
+  booktitle = {Proceedings of the 30th ACM Symposium on Virtual Reality Software and Technology (VRST '24)},
+  month = oct,
+  number = {102},
+  pages = {1--2},
+  publisher = {ACM},
+  title = {Generative Multi-Modal Artificial Intelligence for Dynamic Real-Time Context-Aware Content Creation in Augmented Reality},
+  year = {2024}
+}
+
+@inproceedings{behravan2024generative,
+  title={Generative Multi-Modal Artificial Intelligence for Dynamic Real-Time Context-Aware Content Creation in Augmented Reality},
+  author={Behravan, Majid and Gracanin, Denis},
+  booktitle={Proceedings of the 30th ACM Symposium on Virtual Reality Software and Technology},
+  pages={1--2},
+  year={2024}
+}
+
+@INPROCEEDINGS{Behravan-2024-b2,
+  author={Behravan, Majid and Matković, Krešimir and Gračanin, Denis},
+  booktitle={2025 IEEE International Conference on Artificial Intelligence and eXtended and Virtual Reality (AIxVR)}, 
+  title={Generative AI for Context-Aware 3D Object Creation Using Vision-Language Models in Augmented Reality}, 
+  year={2025},
+  pages={73--81},
+  doi={10.1109/AIxVR63409.2025.00018}
+}
+
+@InProceedings{10.1007/978-3-031-93700-2_2,
+  author="Behravan, Majid and Haghani, Maryam and Gračanin, Denis",
+  editor="Chen, Jessie Y. C. and Fragomeni, Gino",
+  title="Transcending Dimensions Using Generative AI: Real-Time 3D Model Generation in Augmented Reality",
+  booktitle="Virtual, Augmented and Mixed Reality",
+  year="2025",
+  publisher="Springer Nature Switzerland",
+  address="Cham",
+  pages="13--32",
+  isbn="978-3-031-93700-2"
+}
 ---
 
 ## License
